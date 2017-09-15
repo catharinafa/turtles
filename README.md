@@ -1,7 +1,9 @@
 # turtles
 
+[Erste Informatikstunde](#eins)
 
-Stunde 1
+
+# Erste Informatikstunde<a name="eins"></a>
 
 Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht.
 

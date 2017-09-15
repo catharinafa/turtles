@@ -1,4 +1,4 @@
-# turtles
+# Turtles
 
 [Erste Informatikstunde](#eins)
 

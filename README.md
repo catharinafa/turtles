@@ -1,4 +1,6 @@
-# Turtles
+# Projekt StarlogoTNG - Turtles
+
+# Stundenblog
 
 [Erste Informatikstunde](#eins)
 

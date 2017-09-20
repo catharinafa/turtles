@@ -27,6 +27,8 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  # Dritte Informatikstunde<a name="drei"></a>
  
+ Heute haben wir herausgefunden wie man "random" Blöcke benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. 
+ 
  ![screenshot2](Bilder/screenshot2.png "Screenshot 2")
  
  

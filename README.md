@@ -44,7 +44,7 @@ In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür
 
 Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die die Positionen im Spaceland anzeigen.
 
-![screenshot
+![screenshot4](Bilder/screenshot4.png "Screenshot 4")
 
 # Fünfte Informatikstunde<a name="fünf"></a>
 

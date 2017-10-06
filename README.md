@@ -52,7 +52,8 @@ Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie 
 
 ![screenshot5](Bilder/screenshot5.png "Screenshot 5")
 
-Außerdem mussten wir in der heutigen Stunde leider feststellen, dass
+Außerdem mussten wir in der heutigen Stunde leider feststellen, dass 
+ein Drittel rechnung falsch, ziel nächster stunde: Fehler beheben
 
 
 

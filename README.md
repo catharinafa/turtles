@@ -38,7 +38,7 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  # Vierte Informatikstunde<a name="vier"></a>
  
- 
+ In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür 
 
 
 ![screenshot3](Bilder/screenshot3.png "Screenshot 3")

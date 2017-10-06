@@ -38,7 +38,7 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  # Vierte Informatikstunde<a name="vier"></a>
  
- In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür 
+In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür haben wir Kollisionsblöcke benutzt. Wenn jetzt zwei Agenten aufeinander treffen sagen sie sich "Hallo".
 
 
 ![screenshot3](Bilder/screenshot3.png "Screenshot 3")

@@ -42,7 +42,7 @@ In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür
 
 ![screenshot3](Bilder/screenshot3.png "Screenshot 3")
 
-Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die die Positionen im Spaceland anzeigen.
+Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Ziel war es die Farben genau auf die Agenten aufzuteilen. Also ein Drittel der Agenten sollte rot, ein Drittel blau und ein Drittel grün sein. Um dies zu erreichen mussten wir "if-Blöcke" verwenden. In diese haben wir "Gleichungs-Blöcke" eingesetzt, die bestimmen unter welcher Bedingung die Agenten eine bestimmte Farbe annehmmen. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die ihre Position im Spaceland anzeigen.
 
 ![screenshot4](Bilder/screenshot4.png "Screenshot 4")
 

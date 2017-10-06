@@ -40,10 +40,11 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
 In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür haben wir Kollisionsblöcke benutzt. In diese setzt man den Befehl "say" ein und danach den Text, welchen die Agenten sagen sollen. Wenn jetzt zwei Agenten aufeinander treffen sagen sie sich "Hallo". Diesen Text kann man beliebig ändern.
 
-
 ![screenshot3](Bilder/screenshot3.png "Screenshot 3")
 
+Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die die Positionen im Spaceland anzeigen.
 
+![screenshot
 
 # Fünfte Informatikstunde<a name="fünf"></a>
 

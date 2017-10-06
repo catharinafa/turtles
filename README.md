@@ -48,7 +48,11 @@ Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Z
 
 # Fünfte Informatikstunde<a name="fünf"></a>
 
+Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie während einer Kollision die Farbe wechseln. Zusätzlich haben wir den Befehl "say: hi" eingefügt, damit wir besser erekennen konnten, wenn zwei Agenten kollidieren. Da nur die Positionspunkte die Farbe anzeigen und wir deshalb nicht gut erkennen konnten, ob die Schildkröten wirklich die Farbe ändern, haben wir einen anderen Agenten ausgewählt. Damit der Agent farbig erscheint, darf er keine Musterung (Haut, Augen etc.) besitzen. Wir haben uns schließlich für einen weißen Bären entschieden. Nachdem die Agenten ihre Farbe angenommen hatten, haben wir die Perspektive in "Agent-View" gewechselt, um nun besser den Farbwechsel bei einer Kollision verfolgen zu können.
 
+![screenshot5](Bilder/screenshot5.png "Screenshot 5")
+
+Außerdem mussten wir in der heutigen Stunde leider feststellen, dass
 
 
 

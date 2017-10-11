@@ -59,6 +59,7 @@ Außerdem mussten wir in der heutigen Stunde leider feststellen, dass unsere Üb
 
 Damit wurde ein drittel der gesamten Agenten blau, und ein drittel der gesamten Agenten grün. Das bedeutet, dass auch blaue Agenten grün wurden und wir keine genaue Aufteilung der drei Farben erreicht haben, was eigentlich unser Ziel gewesen ist. Wie viele Agenten welcher Farbe angehören konnten wir mit bestimmten "count-Blöcken" zählen.
 
+![screenshot8](Bilder/screenshot8.png "Screenshot 8")
 
 Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 

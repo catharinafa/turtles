@@ -61,6 +61,10 @@ Damit wurde ein drittel der gesamten Agenten blau, und ein drittel der gesamten 
 
 ![screenshot8](Bilder/screenshot8.png "Screenshot 8")
 
+Durch das Einfügen dieser Blöcke, wurde uns die genaue Anzahl der Agenten in dem Space-Land-Fenster angezeigt.
+
+![screenshot7](Bilder/screenshot7.png "Screenshot 7")
+
 Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 
 

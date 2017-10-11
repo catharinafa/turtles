@@ -55,8 +55,12 @@ Damit der Agent farbig erscheint, darf er keine Musterung (Haut, Augen etc.) bes
 
 Außerdem mussten wir in der heutigen Stunde leider feststellen, dass unsere Überlegung aus der vierten Stunde falsch waren. Wir dachten, dass wir mit den "if-Blöcken" unsere gesamte Anzahl der Agenten dritteln könnten, indem wir zwei Bedingungen stellen. Generell sollten alle Agenten rot sein, wenn allerding eine zufällige Zahl aus drei gleich 1 ist sollten sie blau werden, bei einer zufälligen Zahl gleich zwei grün. 
 
+![screenshot6](Bilder/screenshot6.png "Screenshot 6")
 
-ein Drittel rechnung falsch, ziel nächster stunde: Fehler beheben
+Damit wurde ein drittel der gesamten Agenten blau, und ein drittel der gesamten Agenten grün. Das bedeutet, dass auch blaue Agenten grün wurden und wir keine genaue Aufteilung der drei Farben erreicht haben, was eigentlich unser Ziel gewesen ist. 
+Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
+
+
 
 
 

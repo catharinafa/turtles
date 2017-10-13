@@ -37,37 +37,37 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  Heute haben wir herausgefunden wie man "random" Blöcke benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. 
  
- ![screenshot2](Bilder/screenshot2.png "Screenshot 2")
+ ![screenshot2](Bilder/screenshot02.png "Screenshot 2")
  
  
  ## Vierte Informatikstunde<a name="vier"></a>
  
 In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür haben wir Kollisionsblöcke benutzt. In diese setzt man den Befehl "say" ein und danach den Text, welchen die Agenten sagen sollen. Wenn jetzt zwei Agenten aufeinander treffen sagen sie sich "Hallo". Diesen Text kann man beliebig ändern.
 
-![screenshot3](Bilder/screenshot3.png "Screenshot 3")
+![screenshot3](Bilder/screenshot03.png "Screenshot 3")
 
 Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Ziel war es die Farben genau auf die Agenten aufzuteilen. Also ein Drittel der Agenten sollte rot, ein Drittel blau und ein Drittel grün sein. Um dies zu erreichen mussten wir "if-Blöcke" verwenden. In diese haben wir "Gleichungs-Blöcke" eingesetzt, die bestimmen unter welcher Bedingung die Agenten eine bestimmte Farbe annehmmen. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die ihre Position im Spaceland anzeigen.
 
-![screenshot4](Bilder/screenshot4.png "Screenshot 4")
+![screenshot4](Bilder/screenshot04.png "Screenshot 4")
 
 ## Fünfte Informatikstunde<a name="fünf"></a>
 
 Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie während einer Kollision die Farbe wechseln. Zusätzlich haben wir den Befehl "say: hi" eingefügt, damit wir besser erekennen konnten, wenn zwei Agenten kollidieren. Da nur die Positionspunkte die Farbe anzeigen und wir deshalb nicht gut erkennen konnten, ob die Schildkröten wirklich die Farbe ändern, haben wir einen anderen Agenten ausgewählt. 
 Damit der Agent farbig erscheint, darf er keine Musterung (Haut, Augen etc.) besitzen. Wir haben uns schließlich für einen weißen Bären entschieden. Nachdem die Agenten ihre Farbe angenommen hatten, haben wir die Perspektive in "Agent-View" gewechselt, um nun besser den Farbwechsel bei einer Kollision verfolgen zu können.
 
-![screenshot5](Bilder/screenshot5.png "Screenshot 5")
+![screenshot5](Bilder/screenshot05.png "Screenshot 5")
 
 Außerdem mussten wir in der heutigen Stunde leider feststellen, dass unsere Überlegung aus der vierten Stunde falsch waren. Wir dachten, dass wir mit den "if-Blöcken" unsere gesamte Anzahl der Agenten dritteln könnten, indem wir zwei Bedingungen stellen. Generell sollten alle Agenten rot sein, wenn allerding eine zufällige Zahl aus drei gleich 1 ist sollten sie blau werden, bei einer zufälligen Zahl gleich zwei grün. 
 
-![screenshot6](Bilder/screenshot6.png "Screenshot 6")
+![screenshot6](Bilder/screenshot06.png "Screenshot 6")
 
 Damit wurde ein drittel der gesamten Agenten blau, und ein drittel der gesamten Agenten grün. Das bedeutet, dass auch blaue Agenten grün wurden und wir keine genaue Aufteilung der drei Farben erreicht haben, was eigentlich unser Ziel gewesen ist. Wie viele Agenten welcher Farbe angehören konnten wir mit bestimmten "count-Blöcken" zählen.
 
-![screenshot8](Bilder/screenshot8.png "Screenshot 8")
+![screenshot8](Bilder/screenshot08.png "Screenshot 8")
 
 Durch das Einfügen dieser Blöcke, wurde uns die genaue Anzahl der Agenten in dem Space-Land-Fenster angezeigt.
 
-![screenshot7](Bilder/screenshot7.png "Screenshot 7")
+![screenshot7](Bilder/screenshot07.png "Screenshot 7")
 
 Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 
@@ -75,7 +75,7 @@ Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
  
 Nachdem wir heute weiter an unserem Stundenblog geschrieben haben, widmeten wir uns dem Problem der vorigen Stunde: Die Farben waren nicht gleichmäßig auf die Agenten aufgeteilt. Wir haben die Bedingungen so geändert, dass die Hälfte der roten Agenten blau wurden und ein drittel der gesamten Anzahl, also rote und blaue Agenten zusammen grün. 
 
-![screenshot9](Bilder/screenshot9.png "Screenshot 9")
+![screenshot9](Bilder/screenshot09.png "Screenshot 9")
 
 Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden. Was wir durch die "count-Blöcke" kontrollieren konnten.
 

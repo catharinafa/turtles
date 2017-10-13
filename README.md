@@ -69,7 +69,7 @@ Durch das Einfügen dieser Blöcke, wurde uns die genaue Anzahl der Agenten in d
 
 Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 
-# Sechste Informatikstunde<a name="sechs"></a)
+# Sechste Informatikstunde<a name="sechs"></a>
  
 Nachdem wir heute weiter an unserem Stundenblco geschrieben haben, widmeten wir uns dem Problem der vorigen Stunde: Die Farben waren nicht gleichmäßig auf die Agenten aufgeteilt. Wir haben die Bedingungen so geändert, dass die Hälfte der roten Agenten blau wurden und ein drittel der gesamten Anzahl, also rote und blaue Agenten zusammen grün. Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden. Was wir durch die "count-Blöcke" kontrollieren konnten.
 

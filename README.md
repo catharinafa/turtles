@@ -1,6 +1,6 @@
 # Projekt StarlogoTNG - Turtles
 
-# Stundenblog
+## Stundenblog
 
 [Erste Informatikstunde](#eins)
 
@@ -83,7 +83,9 @@ Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden.
 
 ## Siebte Informatikstunde<a name="sieben"></a>
 
-In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzten
+In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzen. In diesen setzten wir dann unsere oben genannte Bedingung (wenn zwei gleichfarbige Agenten kollidieren (test-Lücke), sterben sie (then-Lücke)) ein. Aber weiterhin sollten die Agenten, wenn sie einen anders farbigen treffen, ihre Farbe tauschen. Die Bedingung haben wir in die else-Lücke eingesetzt.
+
+![screenshot11](Bilder/screenshot11.png "Screenshot 11")
 
 
 

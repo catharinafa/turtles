@@ -14,6 +14,8 @@
 
 [Sechste Informatikstunde](#sechs)
 
+[Siebte Informatikstunde](#sieben)
+
 
 # Erste Informatikstunde<a name="eins"></a>
 
@@ -71,13 +73,17 @@ Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 
 # Sechste Informatikstunde<a name="sechs"></a>
  
-Nachdem wir heute weiter an unserem Stundenblco geschrieben haben, widmeten wir uns dem Problem der vorigen Stunde: Die Farben waren nicht gleichmäßig auf die Agenten aufgeteilt. Wir haben die Bedingungen so geändert, dass die Hälfte der roten Agenten blau wurden und ein drittel der gesamten Anzahl, also rote und blaue Agenten zusammen grün. 
+Nachdem wir heute weiter an unserem Stundenblog geschrieben haben, widmeten wir uns dem Problem der vorigen Stunde: Die Farben waren nicht gleichmäßig auf die Agenten aufgeteilt. Wir haben die Bedingungen so geändert, dass die Hälfte der roten Agenten blau wurden und ein drittel der gesamten Anzahl, also rote und blaue Agenten zusammen grün. 
 
 ![screenshot9](Bilder/screenshot9.png "Screenshot 9")
 
 Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden. Was wir durch die "count-Blöcke" kontrollieren konnten.
 
 ![screenshot10](Bilder/screenshot10.png "Screenshot 10")
+
+# Siebte Informatikstunde<a name="sieben"></a>
+
+In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzten
 
 
 

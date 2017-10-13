@@ -21,11 +21,7 @@
 
 Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt steuern kann. 
 
-
- 
- 
  ![screenshot1](Bilder/screenshot01.png "Screenshot 1")
- 
  
  
  ## Zweite Informatikstunde<a name="zwei"></a>
@@ -35,7 +31,8 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  ## Dritte Informatikstunde<a name="drei"></a>
  
- Heute haben wir herausgefunden wie man "random" Blöcke benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. 
+Heute haben wir herausgefunden wie man "random-Blöcke" benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. In "random-Blöcken" legt man eine Zahlenbereich fest, aus diesem dann eine zufällige Zahl ausgewählt werden kann. Wenn diese gleich
+"random-Blöcke" sorgen dafür, dass eine Bedingung zufällig eintrifft.
  
  ![screenshot2](Bilder/screenshot02.png "Screenshot 2")
  

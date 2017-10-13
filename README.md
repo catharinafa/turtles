@@ -87,6 +87,8 @@ In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so
 
 ![screenshot11](Bilder/screenshot11.png "Screenshot 11")
 
+Um die Richtigkeit unserer Programmierung zu überpfüfen, haben wir den Befehl "say:Collided!" eingefügt, einen Agenten in der "Agent-View" verfolgt und den Rückgang der verschiedenen Farben beobachtet. Durch die Sprechblasen, die bei einer Kollision auftraten, wussten wir wo zwei Agenten mit einander kollidierten und mit Hilfe des "Agent-Views" konnten wir diese besser beobachten. Die "count-Blöcke" zeigten uns, dass die Anzahlen der jeweiligen Farben immer um zwei zurückgingen und bestätigten damit unsere Programmierung.
+
 
 
 

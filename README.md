@@ -24,7 +24,7 @@ Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschiede
 
  
  
- ![screenshot1](Bilder/screenshot1.png "Screenshot 1")
+ ![screenshot1](Bilder/screenshot01.png "Screenshot 1")
  
  
  

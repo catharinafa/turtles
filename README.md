@@ -1,6 +1,6 @@
 # Projekt StarlogoTNG - Turtles
 
-## Stundenblog
+# Stundenblog
 
 [Erste Informatikstunde](#eins)
 
@@ -17,7 +17,7 @@
 [Siebte Informatikstunde](#sieben)
 
 
-# Erste Informatikstunde<a name="eins"></a>
+## Erste Informatikstunde<a name="eins"></a>
 
 Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt steuern kann. 
 
@@ -28,19 +28,19 @@ Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschiede
  
  
  
- # Zweite Informatikstunde<a name="zwei"></a>
+ ## Zweite Informatikstunde<a name="zwei"></a>
  
 In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei beschäftigt. Wir wollten einen Screenshot in unsere Datei einfügen und haben uns dazu eine Anleitung auf YouTube angesehen. Leider hat es trotzdem nicht funktioniert. Nach langem Herumprobieren und mit etwas Hilfe von Herrn Buhl haben wir es endlich eine Möglichkeit gefunden einen Screenshot in unseren Stundenblog einzufügen. Doch seltsamerweise wurde unser Screenshot immer noch nicht als Bild angezeigt. Unser Fehler war, dass wir ein falsches Lehrzeichen eingefügt hatten. Dies hat uns direkt am Anfang gezeigt, dass selbst die kleinsten Details ausschlaggebend für das Endergebnis sind und uns gelehrt beim nächsten Mal genauer auf Kleinigkeiten zu achten. Außerdem haben wir herausgefunden wie man Verzeichnis mit den dazugehörigen Texten verlinkt. Am Ende dieser Stunde waren wir sehr glücklich über unsere Leistung. :)
  
  
- # Dritte Informatikstunde<a name="drei"></a>
+ ## Dritte Informatikstunde<a name="drei"></a>
  
  Heute haben wir herausgefunden wie man "random" Blöcke benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. 
  
  ![screenshot2](Bilder/screenshot2.png "Screenshot 2")
  
  
- # Vierte Informatikstunde<a name="vier"></a>
+ ## Vierte Informatikstunde<a name="vier"></a>
  
 In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür haben wir Kollisionsblöcke benutzt. In diese setzt man den Befehl "say" ein und danach den Text, welchen die Agenten sagen sollen. Wenn jetzt zwei Agenten aufeinander treffen sagen sie sich "Hallo". Diesen Text kann man beliebig ändern.
 
@@ -50,7 +50,7 @@ Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Z
 
 ![screenshot4](Bilder/screenshot4.png "Screenshot 4")
 
-# Fünfte Informatikstunde<a name="fünf"></a>
+## Fünfte Informatikstunde<a name="fünf"></a>
 
 Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie während einer Kollision die Farbe wechseln. Zusätzlich haben wir den Befehl "say: hi" eingefügt, damit wir besser erekennen konnten, wenn zwei Agenten kollidieren. Da nur die Positionspunkte die Farbe anzeigen und wir deshalb nicht gut erkennen konnten, ob die Schildkröten wirklich die Farbe ändern, haben wir einen anderen Agenten ausgewählt. 
 Damit der Agent farbig erscheint, darf er keine Musterung (Haut, Augen etc.) besitzen. Wir haben uns schließlich für einen weißen Bären entschieden. Nachdem die Agenten ihre Farbe angenommen hatten, haben wir die Perspektive in "Agent-View" gewechselt, um nun besser den Farbwechsel bei einer Kollision verfolgen zu können.
@@ -71,7 +71,7 @@ Durch das Einfügen dieser Blöcke, wurde uns die genaue Anzahl der Agenten in d
 
 Unser Plan für die nächste Stunde ist, diesen Fehler zu beheben.
 
-# Sechste Informatikstunde<a name="sechs"></a>
+## Sechste Informatikstunde<a name="sechs"></a>
  
 Nachdem wir heute weiter an unserem Stundenblog geschrieben haben, widmeten wir uns dem Problem der vorigen Stunde: Die Farben waren nicht gleichmäßig auf die Agenten aufgeteilt. Wir haben die Bedingungen so geändert, dass die Hälfte der roten Agenten blau wurden und ein drittel der gesamten Anzahl, also rote und blaue Agenten zusammen grün. 
 
@@ -81,7 +81,7 @@ Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden.
 
 ![screenshot10](Bilder/screenshot10.png "Screenshot 10")
 
-# Siebte Informatikstunde<a name="sieben"></a>
+## Siebte Informatikstunde<a name="sieben"></a>
 
 In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzten
 

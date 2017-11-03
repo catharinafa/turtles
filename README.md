@@ -18,6 +18,8 @@
 
 [Achte Informatikstunde](#acht)
 
+[Neunte Informatikstunde](#neun)
+
 
 ## Erste Informatikstunde<a name="eins"></a>
 
@@ -93,6 +95,21 @@ Um die Richtigkeit unserer Programmierung zu überpfüfen, haben wir den Befehl 
 ![screenshot12](Bilder/screenshot12.png "Screenshot 12")
 
 ![screenshot13](Bilder/screenshot13.png "Screenshot 13")
+
+## Neunte Informatikstunde<a name="neun"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

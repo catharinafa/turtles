@@ -92,9 +92,17 @@ Um die Richtigkeit unserer Programmierung zu überpfüfen, haben wir den Befehl 
 
 ## Achte Informatikstunde<a name="acht"></a>
 
+In dieser Informatikstunde haben wir eine neue Welt mit einem anderen Agenten erstellt. In dieser Welt kann man den Agenten nun mit der Tastatur steuern. Mit Hilfe eines "if-Blocks" konnten wir die Bedingung stellen, dass der Agent sich vorwärts bewegt, wenn die obere Pfeiltaste gedrückt wird.
+
 ![screenshot12](Bilder/screenshot12.png "Screenshot 12")
 
+Dies haben wir danach ebenfalls für die Bewegung nach rechts, links und rückwärts programmiert. Wir freuen uns, dass wir den Agenten nun steuern können und er nicht mehr willkürlich im Spaceland herumläuft.
+
 ![screenshot13](Bilder/screenshot13.png "Screenshot 13")
+
+
+
+![screenshot14](Bilder/screenshot14.png "Screenshot 14")
 
 ## Neunte Informatikstunde<a name="neun"></a>
 

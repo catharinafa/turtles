@@ -108,9 +108,9 @@ Dies haben wir danach ebenfalls für die Bewegung nach rechts, links und rückw�
 
 Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere Aufgabe war den Agenten die Blöcke einsammeln zu lassen. Dafür haben wir nach einem passenden Programmierungs-Block gesucht, der die Funtion besitzt Dinge einzusammeln. Nachdem wir feststellen mussten, dass es so einen Block nicht gibt, haben wir uns eine andere Lösung überlegt. 
 
-![screenshot15](Bilder/screenshot15.png "Screenshot 15")
-
 ![screenshot16](Bilder/screenshot16.png "Screenshot 16")
+
+![screenshot15](Bilder/screenshot15.png "Screenshot 15")
 
 ![screenshot17](Bilder/screenshot17.png "Screenshot 17")
 

@@ -112,7 +112,7 @@ Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere 
 
 Da wir eigentlich erreichen wollten, dass der Agent den Block einsammelt und nicht, dass der Block einfach verschwindet, benutzten wir "Boolsche Variablen". Diese legt fest, dass der Agent vor einer Kollision keinen Block "besitzt": Die Boolsche Variable "set hatBlock" ist falsch. Wenn er nun aber mit einem Block kollidiert merkt er sich, dass er einen Block "besitzt": Die Boolsche Variable "set hatBLock" ist erfüllt ("true").
 
-![screenshot15](Bilder/screenshot15.png "Screenshot 15")
+![screenshot15](Bilder/screenshot15.png "Screenshot 15") ![screenshot16](Bilder/screenshot16.png "Screenshot 16")
 
 Diese "Boolsche Variable" taucht auch in dem Agentenfester auf. Somit lässt sich kontrollieren, ob der Agent gerade im Besitz eines Blocks ist oder nicht.
 

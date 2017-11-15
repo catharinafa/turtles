@@ -23,7 +23,7 @@
 
 ## Erste Informatikstunde<a name="eins"></a>
 
-Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt steuern kann. 
+Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt mit Hilfe von bestimmten Blöcken steuern kann. 
 
  ![screenshot1](Bilder/screenshot01.png "Screenshot 1")
  
@@ -35,8 +35,7 @@ In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei
  
  ## Dritte Informatikstunde<a name="drei"></a>
  
-Heute haben wir herausgefunden wie man "random-Blöcke" benutzt. Sodass die Agenten sich willkürlich im Spaceland bewegen. In "random-Blöcken" legt man eine Zahlenbereich fest, aus diesem dann eine zufällige Zahl ausgewählt werden kann. Wenn diese gleich
-"random-Blöcke" sorgen dafür, dass eine Bedingung zufällig eintrifft.
+Heute haben wir herausgefunden wie man mit "if-Blöcken" und "random-Blöcken" arbeitet. Unser Ziel war es, dass die Agenten sich willkürlich im Spaceland bewegen. Dazu stellt man mit Hilfe eines "if-Blocks" eine Bedingung. Wenn diese eintritt, wird das vorher festgelegte Ereignis ausgeführt. In unserem Fall haben wir in die Gleichung für die Bedingung einen "random-Block" eingefügt, damit das Ereignis auch wirklich willkürlich eintritt. "random-Blöcke" wählen aus einem festgelegten Zahlenbereich, in unserm Fall eins bis zwei, zufällig eine Zahl aus. Erfüllt diese Zahl die Gleichung, tritt das Ereignis ein, in unserm Fall dreht sich der Agent um eine willkürliche Gradzahl. 
  
  ![screenshot2](Bilder/screenshot02.png "Screenshot 2")
  

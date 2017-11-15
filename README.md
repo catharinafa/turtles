@@ -106,7 +106,7 @@ Damit unser Agent nicht nur in dem Spaceland herum laufen kann, haben wir außer
 
 ## Neunte Informatikstunde<a name="neun"></a>
 
-Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere Aufgabe war den Agenten die Blöcke einsammeln zu lassen. Dafür haben wir nach einem passenden Programmierungs-Block gesucht, der die Funtion besitzt Dinge einzusammeln. Nachdem wir feststellen mussten, dass es so einen Block nicht gibt, haben wir uns eine andere Lösung überlegt. Wenn der Agent auf einen Block trifft, mit ihm also kollidiert, "stirbt" der Block und verschwindet. Zur Kontrolle programmierten wir den Agenten so, dass er bei einer Kollision "Hurray" sagt.
+Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere Aufgabe war den Agenten die Blöcke einsammeln zu lassen. Dafür haben wir nach einem passenden Programmierungs-Block gesucht, der die Funtion besitzt Dinge einzusammeln. Nachdem wir feststellen mussten, dass es so einen Block nicht gibt, haben wir uns eine andere Lösung überlegt. Wenn der Agent auf einen Block trifft, mit ihm also kollidiert, "stirbt" der Block und verschwindet. Zur Kontrolle programmierten wir den Agenten so, dass er bei einer Kollision "Hurray" sagt. Außerdem hatten zuvor einen "count everyone"-Block eingefügt, durch den wir die Anzahl aller Blöcke plus den einen Löwen kontrollieren konnten.
 
 ![screenshot16](Bilder/screenshot16.png "Screenshot 16")
 

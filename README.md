@@ -100,7 +100,7 @@ Dies haben wir danach ebenfalls für die Bewegung nach rechts, links und rückw�
 
 ![screenshot13](Bilder/screenshot13.png "Screenshot 13")
 
-Damit unser Agent nicht nur in dem Spaceland herum laufen kann, haben wir außerdem Blöcke eingefügt, mit denen er später Aktionen ausführen kann, wie zum Beispiel aufsammeln. Dafür mussten wir ein neues "Breed" erstellen, wir haben uns für den Würfel entschieden und dieses "Breed" Block genannt.
+Damit unser Agent nicht nur in dem Spaceland herum laufen kann, haben wir außerdem Blöcke eingefügt, mit denen er später Aktionen ausführen kann, wie zum Beispiel aufsammeln. Dafür mussten wir ein neues "Breed" erstellen, wir haben uns für den Würfel entschieden und dieses "Breed" Block genannt. Sobald das neue "Breed" erstellt wurde, konnten wir neben Löwen auch Blöcke kreieren. Wir haben erst einmal hundert Blöcke erstellt und sie durch den "scatter everyone"-Block in dem Spaceland verteilt. 
 
 ![screenshot14](Bilder/screenshot14.png "Screenshot 14")
 

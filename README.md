@@ -25,6 +25,7 @@
 
 ## Erste Informatikstunde<a name="eins"></a>
 
+Githubaccount   kein plan vom programmieren
 Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt mit Hilfe von bestimmten Blöcken steuern kann. 
 
  ![screenshot1](Bilder/screenshot01.png "Screenshot 1")

@@ -20,6 +20,8 @@
 
 [Neunte Informatikstunde](#neun)
 
+[Zehnte Informatikstunde](#zehn)
+
 
 ## Erste Informatikstunde<a name="eins"></a>
 
@@ -119,7 +121,11 @@ Diese "Boolsche Variable" taucht auch in dem Agentenfester auf. Somit lässt sic
 
 In der heutigen Stunde haben wir es also geschafft zu programmieren, dass der Block bei einer Kollision mit unserem Agenten stirbt und sich der Agent merkt, dass er nun einen Block "besitzt". Für den Spieler wirkt es so als würde der Agent den Block einsammeln. 
 
+## Zehnte Informatikstunde<a name="zehn"></a>
 
+Unser heutiges Ziel bestand darin den Agenten wieder einen Block abwerfen zu lassen. Am Anfang wussten wir allerdings nicht was wir dafür programmieren mussten. Uns war klar, dass wir einen neuen Block entstehen lassen mussten und haben es zu erst mit "Create-Blöcken" versucht. Schnell wurde uns bewusst, dass es so aber nicht funktionieren kann. Deshalb haben wir Herrn Buhl nach Tipps gefragt. Er hat uns dann gezeigt wie man mit "Hatch-Do-Blöcken" arbeitet. "Hatch-Blöcke" erzeugen eine exakte Kopie des Agenten 
+
+![screenshot18](Bilder/screenshot18.png "Screenshot 18")
 
 
 

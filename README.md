@@ -25,20 +25,19 @@
 
 ## Erste Informatikstunde<a name="eins"></a>
 
-Githubaccount   kein plan vom programmieren
-Nachdem wir uns für das Programmieren einer 3D Welt mit StarLogo TNG entschieden haben, haben wir uns in der ersten Stunde mit dem Programm vertraut gemacht. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verstellen und wie man sie in der 3D Welt mit Hilfe von bestimmten Blöcken steuern kann. 
+In unserer ersten Informatikstunde haben wir uns alle einen Github Account angelegt, in dem wir unsere Ergebnisse der Stunden festhalten. Da wir beide keinerlei Vorkenntnisse im Programmieren hatten, haben wir uns für das Programmieren einer 3D Welt mit dem  Programm Starlogo TNG entschieden, da Herr Buhl meinte es sei auch für Anfänger geeignet. Heute haben wir außerdem angefangen uns mit dem Programm vertraut zu machen. Wir haben gelernt Agenten zu erstellen, ihre Anzahl zu verändern und wie man sie in der 3D Welt mit Hilfe von bestimmten Blöcken steuern kann. 
 
  ![screenshot1](Bilder/screenshot01.png "Screenshot 1")
  
  
  ## Zweite Informatikstunde<a name="zwei"></a>
  
-In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei beschäftigt. Wir wollten einen Screenshot in unsere Datei einfügen und haben uns dazu eine Anleitung auf YouTube angesehen. Leider hat es trotzdem nicht funktioniert. Nach langem Herumprobieren und mit etwas Hilfe von Herrn Buhl haben wir es endlich eine Möglichkeit gefunden einen Screenshot in unseren Stundenblog einzufügen. Doch seltsamerweise wurde unser Screenshot immer noch nicht als Bild angezeigt. Unser Fehler war, dass wir ein falsches Lehrzeichen eingefügt hatten. Dies hat uns direkt am Anfang gezeigt, dass selbst die kleinsten Details ausschlaggebend für das Endergebnis sind und uns gelehrt beim nächsten Mal genauer auf Kleinigkeiten zu achten. Außerdem haben wir herausgefunden wie man Verzeichnis mit den dazugehörigen Texten verlinkt. Am Ende dieser Stunde waren wir sehr glücklich über unsere Leistung. :)
+In dieser Informatikstunde haben wir uns hauptsächlich mit unserer README Datei beschäftigt. Wir wollten einen Screenshot in unsere Datei einfügen und haben uns dazu eine Anleitung auf YouTube angesehen. Leider hat es trotzdem nicht funktioniert. Nach langem Herumprobieren und mit etwas Hilfe von Herrn Buhl haben wir endlich eine Möglichkeit gefunden einen Screenshot in unseren Stundenblog einzufügen. Doch seltsamerweise wurde unser Screenshot immer noch nicht als Bild angezeigt. Unser Fehler war, dass wir ein falsches Lehrzeichen eingefügt hatten. Dies hat uns direkt am Anfang gezeigt, dass selbst die kleinsten Details ausschlaggebend für das Endergebnis sind und uns gelehrt beim nächsten Mal genauer auf Kleinigkeiten zu achten. Außerdem haben wir herausgefunden wie man ein Verzeichnis mit den dazugehörigen Texten verlinkt. Am Ende dieser Stunde waren wir sehr glücklich über unsere Leistung. :)
  
  
  ## Dritte Informatikstunde<a name="drei"></a>
  
-Heute haben wir herausgefunden wie man mit "if-Blöcken" und "random-Blöcken" arbeitet. Unser Ziel war es, dass die Agenten sich willkürlich im Spaceland bewegen. Dazu stellt man mit Hilfe eines "if-Blocks" eine Bedingung. Wenn diese eintritt, wird das vorher festgelegte Ereignis ausgeführt. In unserem Fall haben wir in die Gleichung für die Bedingung einen "random-Block" eingefügt, damit das Ereignis auch wirklich willkürlich eintritt. "random-Blöcke" wählen aus einem festgelegten Zahlenbereich, in unserm Fall eins bis zwei, zufällig eine Zahl aus. Erfüllt diese Zahl die Gleichung, tritt das Ereignis ein, in unserm Fall dreht sich der Agent um eine willkürliche Gradzahl. 
+Heute haben wir herausgefunden wie man mit "if-Blöcken" und "random-Blöcken" arbeitet. Unser Ziel war es, dass die Agenten sich willkürlich im Spaceland bewegen. Dazu stellt man mit Hilfe eines "if-Blocks" eine Bedingung. Wenn diese eintritt, wird das vorher festgelegte Ereignis ausgeführt. In unserem Fall haben wir in die Gleichung für die Bedingung einen "random-Block" eingefügt, damit das Ereignis auch wirklich willkürlich eintritt. "random-Blöcke" wählen aus einem festgelegten Zahlenbereich, in unserm Fall eins bis zwei, zufällig eine Zahl aus. Erfüllt diese Zahl die Gleichung, tritt das Ereignis ein, in unserm Fall dreht sich der Agent um eine zufällige Gradzahl zwischen eins und 90. 
  
  ![screenshot2](Bilder/screenshot02.png "Screenshot 2")
  
@@ -49,13 +48,13 @@ In dieser Stunde haben wir gelernt wie Agenten miteinander kommunizieren. Dafür
 
 ![screenshot3](Bilder/screenshot03.png "Screenshot 3")
 
-Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Ziel war es die Farben genau auf die Agenten aufzuteilen. Also ein Drittel der Agenten sollte rot, ein Drittel blau und ein Drittel grün sein. Um dies zu erreichen mussten wir "if-Blöcke" verwenden. In diese haben wir "Gleichungs-Blöcke" eingesetzt, die bestimmen unter welcher Bedingung die Agenten eine bestimmte Farbe annehmmen. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die ihre Position im Spaceland anzeigen.
+Außerdem haben wir angefangen den Agenten verschiedene Farben zu geben. Unser Ziel war es die Farben genau auf die Agenten aufzuteilen. Also ein Drittel der Agenten sollte rot, ein Drittel blau und ein Drittel grün sein. Um dies zu erreichen mussten wir wieder "if-Blöcke" verwenden. In diese haben wir "Gleichungs-Blöcke" eingesetzt, die bestimmen unter welcher Bedingung die Agenten eine bestimmte Farbe annehmmen. Die Schildkröten (unsere Agenten) selber haben allerdings die Farbe nicht gewechselt, sondern nur die Punkte, die ihre Position im Spaceland anzeigen. Dieses Problem wollen wir in der nächsten Stunde lösen.
 
 ![screenshot4](Bilder/screenshot04.png "Screenshot 4")
 
 ## Fünfte Informatikstunde<a name="fünf"></a>
 
-Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie während einer Kollision die Farbe wechseln. Zusätzlich haben wir den Befehl "say: hi" eingefügt, damit wir besser erekennen konnten, wenn zwei Agenten kollidieren. Da nur die Positionspunkte die Farbe anzeigen und wir deshalb nicht gut erkennen konnten, ob die Schildkröten wirklich die Farbe ändern, haben wir einen anderen Agenten ausgewählt. 
+Unsere Aufgabe für diese Stunde war, die Agenten so zu programmieren, dass sie während einer Kollision die Farbe wechseln. Zusätzlich haben wir den Befehl "say: hi" eingefügt, damit wir besser erkennen konnten, wenn zwei Agenten kollidieren. Da nur die Positionspunkte die Farbe anzeigen, was wir in der letzten Stunde schon als Problem identifiziert hatten, und wir deshalb nicht gut erkennen konnten, ob die Schildkröten wirklich die Farbe ändern, haben wir einen anderen Agenten ausgewählt. 
 Damit der Agent farbig erscheint, darf er keine Musterung (Haut, Augen etc.) besitzen. Wir haben uns schließlich für einen weißen Bären entschieden. Nachdem die Agenten ihre Farbe angenommen hatten, haben wir die Perspektive in "Agent-View" gewechselt, um nun besser den Farbwechsel bei einer Kollision verfolgen zu können.
 
 ![screenshot5](Bilder/screenshot05.png "Screenshot 5")
@@ -86,11 +85,11 @@ Dadurch kann jetzt eine relativ gleichmäßige Aufteilung gewährleistet werden.
 
 ## Siebte Informatikstunde<a name="sieben"></a>
 
-In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzen. In diesen setzten wir dann unsere oben genannte Bedingung (wenn zwei gleichfarbige Agenten kollidieren (test-Lücke), sterben sie (then-Lücke)) ein. Aber weiterhin sollten die Agenten, wenn sie einen anders farbigen treffen, ihre Farbe tauschen. Die Bedingung haben wir in die else-Lücke eingesetzt.
+In der heutigen Informatikstunde bestand unsere Aufgabe darin, eine Bedingung so zu programmieren, dass wenn zwei Agenten mit der selben Farbe kollidieren sterben. Dafür mussten wir in den "Kollisions-Block" einen "Ifelse-Block" einsetzen. In diesen setzten wir dann unsere oben genannte Bedingung (wenn zwei gleichfarbige Agenten kollidieren (test-Lücke), sterben sie (then-Lücke)) ein. Aber weiterhin sollten die Agenten, wenn sie einen anders farbigen treffen, ihre Farbe tauschen. Die Bedingung haben wir in die "else-Lücke" eingesetzt.
 
 ![screenshot11](Bilder/screenshot11.png "Screenshot 11")
 
-Um die Richtigkeit unserer Programmierung zu überpfüfen, haben wir den Befehl "say:Collided!" eingefügt, einen Agenten in der "Agent-View" verfolgt und den Rückgang der verschiedenen Farben beobachtet. Durch die Sprechblasen, die bei einer Kollision auftraten, wussten wir wo zwei Agenten mit einander kollidierten und mit Hilfe des "Agent-Views" konnten wir diese besser beobachten. Die "count-Blöcke" zeigten uns, dass die Anzahlen der jeweiligen Farben immer um zwei zurückgingen und bestätigten damit unsere Programmierung.
+Um die Richtigkeit unserer Programmierung zu überpfüfen, haben wir den Befehl "say:Collided!" eingefügt, einen Agenten in der "Agent-View" verfolgt und den Rückgang der verschiedenen Farben beobachtet. Durch die Sprechblasen, die bei einer Kollision auftraten, wussten wir wo zwei Agenten miteinander kollidierten und mit Hilfe des "Agent-Views" konnten wir diese besser beobachten. Die "count-Blöcke" zeigten uns, dass die Anzahlen der jeweiligen Farben immer um zwei zurückgingen und bestätigten damit unsere Programmierung.
 
 ## Achte Informatikstunde<a name="acht"></a>
 
@@ -102,13 +101,13 @@ Dies haben wir danach ebenfalls für die Bewegung nach rechts, links und rückw�
 
 ![screenshot13](Bilder/screenshot13.png "Screenshot 13")
 
-Damit unser Agent nicht nur in dem Spaceland herum laufen kann, haben wir außerdem Blöcke eingefügt, mit denen er später Aktionen ausführen kann, wie zum Beispiel aufsammeln. Dafür mussten wir ein neues "Breed" erstellen, wir haben uns für den Würfel entschieden und dieses "Breed" Block genannt. Sobald das neue "Breed" erstellt wurde, konnten wir neben Löwen auch Blöcke kreieren. Wir haben erst einmal hundert Blöcke erstellt und sie durch den "scatter everyone"-Block in dem Spaceland verteilt. 
+Damit unser Agent nicht nur in dem Spaceland herum laufen kann, haben wir außerdem Blöcke eingefügt, mit denen er später Aktionen ausführen kann, wie zum Beispiel aufsammeln. Dafür mussten wir ein neues "Breed" erstellen, wir haben uns für den Würfel entschieden und dieses "Breed-Block" genannt. Sobald das neue "Breed" erstellt wurde, konnten wir neben Löwen auch Blöcke kreieren. Wir haben erst einmal hundert Blöcke erstellt und sie durch den "scatter everyone-Block" in dem Spaceland verteilt. 
 
 ![screenshot14](Bilder/screenshot14.png "Screenshot 14")
 
 ## Neunte Informatikstunde<a name="neun"></a>
 
-Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere Aufgabe war den Agenten die Blöcke einsammeln zu lassen. Dafür haben wir nach einem passenden Programmierungs-Block gesucht, der die Funtion besitzt Dinge einzusammeln. Nachdem wir feststellen mussten, dass es so einen Block nicht gibt, haben wir uns eine andere Lösung überlegt. Wenn der Agent auf einen Block trifft, mit ihm also kollidiert, "stirbt" der Block und verschwindet. Zur Kontrolle programmierten wir den Agenten so, dass er bei einer Kollision "Hurray" sagt. Außerdem hatten zuvor einen "count everyone"-Block eingefügt, durch den wir die Anzahl aller Blöcke plus den einen Löwen kontrollieren konnten.
+Heute haben wir mit den Ergebnissen der letzten Stunde weitergearbeitet. Unsere Aufgabe war den Agenten die Blöcke einsammeln zu lassen. Dafür haben wir nach einem passenden Programmierungs-Block gesucht, der die Funtion besitzt Dinge einzusammeln. Nachdem wir feststellen mussten, dass es so einen Block nicht gibt, haben wir uns eine andere Lösung überlegt. Wenn der Agent auf einen Block trifft, mit ihm also kollidiert, "stirbt" der Block und verschwindet. Zur Kontrolle programmierten wir den Agenten so, dass er bei einer Kollision "Hurray" sagt. Außerdem hatten zuvor einen "count everyone-Block" eingefügt, durch den wir die Anzahl aller Blöcke plus den einen Löwen kontrollieren konnten.
 
 ![screenshot16](Bilder/screenshot16.png "Screenshot 16")
 

@@ -22,6 +22,8 @@
 
 [Zehnte Informatikstunde](#zehn)
 
+[Elfte Informatikstunde](#elf)
+
 
 ## Erste Informatikstunde<a name="eins"></a>
 
@@ -128,6 +130,8 @@ Unser heutiges Ziel bestand darin den Agenten wieder einen Block abwerfen zu las
 ![screenshot18](Bilder/screenshot18.png "Screenshot 18")
 
 Somit haben wir es schließlich geschafft, dass der Agent einen Block abgeben kann. Darüber haben wir uns sehr gefreut, allerdings ist uns beim Ausprobieren ein Problem aufgefallen. Beim Drücken der Leertaste erscheint zwar für kurze Zeit ein neuer Block, aber er verschwindet danach sofort wieder. Das liegt daran, dass der Agent den Block an der gleichen Stelle, an der er sich selber befindet, abwirft und dadurch sofort wieder mit dem Block kollidiert und der Block dabei stirbt. Dieses Problem konnten wir bis jetzt noch nicht lösen.
+
+## Elfte Informatikstunde<a name="zehn"></a>
 
 
 

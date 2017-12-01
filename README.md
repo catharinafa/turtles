@@ -150,6 +150,8 @@ Desweiteren programmierten wir ein Haus in dem Spaceland. Falls Mario die Orchid
 
 ## Zwölfte Informatikstunde<a name="zwölf"></a>
 
+Heute haben wir uns mit der Kollision von Mario und dem Haus beschäftigt. Wir haben uns lange überlegt was passieren könnte wenn Mario im Besitz der Orchidee auf das Haus trifft. Schließlich haben wir uns dafür entschieden, dass ein Luigi entstehen soll. Um das zu erreichen, mussten wir wieder eine "Hatch-Funktion" benutzen.
+
 ![screenshot20](Bilder/screenshot20.png "Screenshot 20")
 
 
@@ -157,4 +159,4 @@ Desweiteren programmierten wir ein Haus in dem Spaceland. Falls Mario die Orchid
 
 
 ![screenshot26](Bilder/screenshot26.png "Screenshot 26") ![screenshot27](Bilder/screenshot27.png "Screenshot 27")
-
+Gras Baum

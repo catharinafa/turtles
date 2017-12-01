@@ -140,10 +140,11 @@ Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten. Uns
 
 ![screenshot19](Bilder/screenshot19.png "Screenshot 19")
 
-Das Ziel unseres Spiel ist, dass Mario eine Art Schlüssel einsammeln muss, damit er in ein Haus hinein gehen kann. Als Schlüssel haben wir eine pinke Orchidee gewählt, die wie die Bäume in dem Spaceland wilkürlich platziert wird ("scatter-everyone-Block"). 
+Das Ziel unseres Spiel ist, dass Mario eine Art Schlüssel einsammeln muss, damit er in ein Haus hinein gehen kann. Als Schlüssel haben wir eine pinke Orchidee gewählt, die wie die Bäume in dem Spaceland wilkürlich platziert wird ("scatter-everyone-Block"). Damit Mario die Orchidee "bildlich" einsammelt, benutzten wir Kollisionsblöcke. Bei dieser Kollision "stirbt" die Orchidee und Mario sagt "Hurray", außerdem merkt er sich auf Grund einer vorher festgelegten "Boolschen Variable", dass er nun eine Orchidee besitzt. 
 
-![screenshot22](Bilder/screenshot22.png "Screenshot 22")          ![screenshot25](Bilder/screenshot25.png "Sreenshot 25") 
+![screenshot22](Bilder/screenshot22.png "Screenshot 22") ![screenshot25](Bilder/screenshot25.png "Sreenshot 25") 
 
+Desweiteren programmierten wir ein Haus in dem Spaceland. Falls Mario die Orchidee besitzt und mit dem Haus kollidiert, soll etwas passieren. Was genau passieren soll, werden wir uns in der nächsten Stunde überlegen.
 
 ![screenshot23](Bilder/screenshot23.png "Screenshot 23")
 

@@ -142,7 +142,7 @@ Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten. Uns
 
 Das Ziel unseres Spiel ist, dass Mario eine Art Schlüssel einsammeln muss, damit er in ein Haus hinein gehen kann. Als Schlüssel haben wir eine pinke Orchidee gewählt, die wie die Bäume in dem Spaceland wilkürlich platziert wird ("scatter-everyone-Block"). 
 
-![screenshot22](Bilder/screenshot22.png "Screenshot 22")
+![screenshot22](Bilder/screenshot22.png "Screenshot 22") ![screenshot25](Bilder/screenshot25.png "Sreenshot 25") ![screenshot24](Bilder/screenshot24.png "Sreenshot 24")
 
 ![screenshot23](Bilder/screenshot23.png "Screenshot 23")
 

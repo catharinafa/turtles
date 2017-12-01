@@ -140,6 +140,9 @@ Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten.
 
 ![screenshot19](Bilder/screenshot19.png "Screenshot 19")
 
+![screenshot22](Bilder/screenshot22.png "Screenshot 22")
+
+![screenshot23](Bilder/screenshot23.png "Screenshot 23")
 
 ## Zwölfte Informatikstunde<a name="zwölf"></a>
 

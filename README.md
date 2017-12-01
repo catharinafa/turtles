@@ -134,6 +134,10 @@ Somit haben wir es schließlich geschafft, dass der Agent einen Block abgeben ka
 
 ## Elfte Informatikstunde<a name="elf"></a>
 
+In der letzten Stunde haben wir unser Projekt abgeschlossen, uns aber dafür entschieden auch in den folgenden Stunden mit Starlogo TNG zu arbeiten. Für die nächste Einheit konnten wir selber entscheiden, ob wir ein neues Projekt in einem neuen Programm anfangen oder unser altes Projekt weiterführen. Da wir uns bereits in Starlogo TNG eingearbeitet hatten, wollten wir gerne damit weiterarbeiten und beschlossen ein Adventurespiel zu programmieren.
+
+Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten. 
+
 ![screenshot19](Bilder/screenshot19.png "Screenshot 19")
 
 

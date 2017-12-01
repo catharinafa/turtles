@@ -136,9 +136,11 @@ Somit haben wir es schließlich geschafft, dass der Agent einen Block abgeben ka
 
 In der letzten Stunde haben wir unser Projekt abgeschlossen, uns aber dafür entschieden auch in den folgenden Stunden mit Starlogo TNG zu arbeiten. Für die nächste Einheit konnten wir selber entscheiden, ob wir ein neues Projekt in einem neuen Programm anfangen oder unser altes Projekt weiterführen. Da wir uns bereits in Starlogo TNG eingearbeitet hatten, wollten wir gerne damit weiterarbeiten und beschlossen ein Adventurespiel zu programmieren.
 
-Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten. 
+Dafür erschufen wir in Starlogo TNG eine neue Welt mit einem neuen Agenten. Unser Agent ist nun Mario, der mit Hilfe der Tastatur in einer Welt voller Bäume und Gräser bewegt werden kann. 
 
 ![screenshot19](Bilder/screenshot19.png "Screenshot 19")
+
+Das Ziel unseres Spiel ist, dass Mario eine Art Schlüssel einsammeln muss, damit er in ein Haus hinein gehen kann. Als Schlüssel haben wir eine pinke Orchidee gewählt, die wie die Bäume in dem Spaceland verteilt wird ("scatter-everyone-Block")
 
 ![screenshot22](Bilder/screenshot22.png "Screenshot 22")
 

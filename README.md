@@ -154,10 +154,13 @@ Heute haben wir uns mit der Kollision von Mario und dem Haus beschäftigt. Wir h
 
 In den Kollisionsblock von Mario und dem Haus setzten wir für das Haus einen "Ifelse-Block" ein. In diesem legten wir die Bedingung fest, dass wenn ("If") Mario eine Orchidee besitzt, ein Luigi durch die "Hatch-Funktion" entsteht und das Haus sagt:"Du hast es geschafft!". Außerdem sagt Mario "Did it!" und die "Boolsche Variable" wird wieder auf falsch gesetzt. Falls Mario aber keine Orchidee besitzt ("else") sagt das Haus:"Du hast etwas vergessen!" und es passiert nichts weiter. Auch Mario zeigt keine Reaktion.
 
+![screenshot20](Bilder/screenshot20.png "Screenshot 20") 
 
+![screenshot21](Bilder/screenshot21.png "Screenshot 21")
 
-![screenshot20](Bilder/screenshot20.png "Screenshot 20") ![screenshot21](Bilder/screenshot21.png "Screenshot 21")
+Wir haben uns gefreut, dass alles funktioniert hat, allerdings war Luigi nicht sichtbar, da er im Haus entstanden ist. Dieses Problem konnten wir lösen, indem wir Luigi mit Hilfe eines "Forward-Blockes" sechs Schritte vor dem Haus platzierten.
 
+Um das Spiel noch etwas interessanter zu gestalten, haben wir auch noch die Kollisionen von Mario mit dem Gras und den Bäumen programmiert. Wenn Mario auf einen Baum trifft sagt er: "Get out of my way!" und der Baum verschwindet (stirbt). Bei einer Kollision mit dem Gras ändert dieses seine Farbe in braun und Mario sagt: "Hui".
 
 ![screenshot26](Bilder/screenshot26.png "Screenshot 26") ![screenshot27](Bilder/screenshot27.png "Screenshot 27")
-Gras Baum
+

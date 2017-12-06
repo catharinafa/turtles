@@ -156,10 +156,7 @@ In den Kollisionsblock von Mario und dem Haus setzten wir für das Haus einen "I
 
 
 
-![screenshot20](Bilder/screenshot20.png "Screenshot 20")
-
-
-![screenshot21](Bilder/screenshot21.png "Screenshot 21")
+![screenshot20](Bilder/screenshot20.png "Screenshot 20") ![screenshot21](Bilder/screenshot21.png "Screenshot 21")
 
 
 ![screenshot26](Bilder/screenshot26.png "Screenshot 26") ![screenshot27](Bilder/screenshot27.png "Screenshot 27")

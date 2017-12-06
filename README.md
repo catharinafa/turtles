@@ -152,6 +152,10 @@ Desweiteren programmierten wir ein Haus in dem Spaceland. Falls Mario die Orchid
 
 Heute haben wir uns mit der Kollision von Mario und dem Haus beschäftigt. Wir haben uns lange überlegt was passieren könnte wenn Mario im Besitz der Orchidee auf das Haus trifft. Schließlich haben wir uns dafür entschieden, dass ein Luigi entstehen soll. Um das zu erreichen, mussten wir wieder eine "Hatch-Funktion" benutzen.
 
+In den Kollisionsblock von Mario und dem Haus setzten wir für das Haus einen "Ifelse-Block" ein. In diesem legten wir die Bedingung fest, dass wenn ("If") Mario eine Orchidee besitzt, ein Luigi durch die "Hatch-Funktion" entsteht und das Haus sagt:"Du hast es geschafft!". Außerdem sagt Mario "Did it!" und die "Boolsche Variable" wird wieder auf falsch gesetzt. Falls Mario aber keine Orchidee besitzt ("else") sagt das Haus:"Du hast etwas vergessen!" und es passiert nichts weiter. Auch Mario zeigt keine Reaktion.
+
+
+
 ![screenshot20](Bilder/screenshot20.png "Screenshot 20")
 
 
